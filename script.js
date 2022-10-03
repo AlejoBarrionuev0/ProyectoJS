@@ -15,6 +15,7 @@ console.log(pais);
 console.log(dni);
 suma (num1, num2);
 resta (num1, num2);
+multi (num1, num2);
 //#endregion
 
 //#region 
@@ -23,5 +24,8 @@ function suma (num1, num2){
 }
 function resta (num1, num2){
     console.log ("resta: "+ (num1-num2));
+}
+function multi (num1, num2){
+    console.log ("multiplicacion: "+ (num1*num2));
 }
 //#endregion
