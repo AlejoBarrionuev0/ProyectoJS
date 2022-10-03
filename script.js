@@ -14,10 +14,14 @@ console.log(edad);
 console.log(pais);
 console.log(dni);
 suma (num1, num2);
+resta (num1, num2);
 //#endregion
 
 //#region 
 function suma (num1, num2){
     console.log ("suma: "+ (num1+num2));
+}
+function resta (num1, num2){
+    console.log ("resta: "+ (num1-num2));
 }
 //#endregion
