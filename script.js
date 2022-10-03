@@ -8,3 +8,9 @@ let num2 = 5;
 
 let array = [80, 90, 100];
 //#endregion
+
+//#region 
+console.log(edad);
+console.log(pais);
+console.log(dni);
+//#endregion
