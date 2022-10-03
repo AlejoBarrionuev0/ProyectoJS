@@ -16,6 +16,7 @@ console.log(dni);
 suma (num1, num2);
 resta (num1, num2);
 multi (num1, num2);
+div (num1, num2);
 //#endregion
 
 //#region 
@@ -27,5 +28,8 @@ function resta (num1, num2){
 }
 function multi (num1, num2){
     console.log ("multiplicacion: "+ (num1*num2));
+}
+function div (num1, num2){
+    console.log ("division: "+ (num1/num2));
 }
 //#endregion
