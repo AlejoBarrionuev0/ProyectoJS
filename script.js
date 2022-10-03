@@ -33,3 +33,9 @@ function div (num1, num2){
     console.log ("division: "+ (num1/num2));
 }
 //#endregion
+
+//#region 
+for(let x = 0; x < array.length; x++){
+    console.log(array[x]);
+}
+//#endregion
