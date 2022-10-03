@@ -13,4 +13,11 @@ let array = [80, 90, 100];
 console.log(edad);
 console.log(pais);
 console.log(dni);
+suma (num1, num2);
+//#endregion
+
+//#region 
+function suma (num1, num2){
+    console.log ("suma: "+ (num1+num2));
+}
 //#endregion
